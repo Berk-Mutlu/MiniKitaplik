@@ -1,2 +1,2 @@
-# odev
+# Mini Kitaplık Website
 
